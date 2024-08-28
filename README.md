@@ -1,6 +1,4 @@
-Here's a detailed explanation of Artificial Intelligence, its concepts, and its main layers, which you can include in your GitHub README:
-
----
+![image](https://github.com/user-attachments/assets/0bda2076-5ead-4191-9ace-62711f21e995)
 
 ## **Artificial Intelligence (AI)**
 
@@ -29,7 +27,7 @@ AI can be structured into different layers, each representing a step in the comp
    - **Components**: Regression, Classification, Clustering, Decision Trees, Support Vector Machines.
 
 #### 3. **Model Layer**
-   - **Description**: Once trained, models are the representations of the learned patterns in data. They are used to make predictions or decisions in new, unseen situations.
+   - **Description**: Once trained, models represent the learned patterns in data. They are used to make predictions or decisions in new, unseen situations.
    - **Components**: Predictive Models, Descriptive Models, Prescriptive Models.
 
 #### 4. **Deep Learning Layer**
@@ -43,6 +41,8 @@ AI can be structured into different layers, each representing a step in the comp
 #### 6. **Application Layer**
    - **Description**: The topmost layer where AI technologies are applied in real-world scenarios. This includes everything from virtual assistants to autonomous vehicles.
    - **Components**: Chatbots, AI in Healthcare, Financial Forecasting, Self-driving Cars.
+     ![image](https://github.com/user-attachments/assets/e458c5ad-5509-438a-8831-117c93244b8e)
+
 
 ### **Further Reading and Resources**
 For a deeper dive into AI, check out these resources:
@@ -52,6 +52,3 @@ For a deeper dive into AI, check out these resources:
 - [Deep Learning Overview](https://deepai.org/machine-learning-glossary-and-terms/deep-learning)
 - [AI Ethics and Responsible AI](https://www.microsoft.com/en-us/ai/responsible-ai)
 
----
-
-This section provides a concise yet detailed overview of AI and its main layers, along with useful links for further reading. You can customize the content to better fit the specific focus of your GitHub project.
