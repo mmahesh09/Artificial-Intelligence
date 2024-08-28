@@ -41,6 +41,7 @@ AI can be structured into different layers, each representing a step in the comp
 #### 6. **Application Layer**
    - **Description**: The topmost layer where AI technologies are applied in real-world scenarios. This includes everything from virtual assistants to autonomous vehicles.
    - **Components**: Chatbots, AI in Healthcare, Financial Forecasting, Self-driving Cars.
+     
      ![image](https://github.com/user-attachments/assets/e458c5ad-5509-438a-8831-117c93244b8e)
 
 
